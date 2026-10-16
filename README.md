@@ -12,7 +12,7 @@ The goal is to demonstrate how data analytics can support the exploration of ent
 
 ## Live Applications
 
--**IMDb movie category rating:** https://imdb-movie-category-rating-nhkqeakaqyqe7edjwwkd6x.streamlit.app/
+- **IMDb movie category rating:** https://imdb-movie-category-rating-nhkqeakaqyqe7edjwwkd6x.streamlit.app/
 - **Interactive IMDb Dashboard:** https://imdb-dashboard-mom.streamlit.app/
 
 *Note: Please verify the predictor URL against your browser address bar before publishing.*
